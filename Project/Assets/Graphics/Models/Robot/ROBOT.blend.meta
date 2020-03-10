@@ -1,0 +1,204 @@
+fileFormatVersion: 2
+guid: ad0d65aa43a7dab46864c6e8168bb9a3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Chest
+    100002: Head
+    100004: L_Hand_L_Finger_Base
+    100006: L_Hand_Palm
+    100008: L_Hand_R_Finger_Knuckle1
+    100010: L_Hand_Thumb_Mid
+    100012: L_Knee
+    100014: L_Lower_Arm
+    100016: L_Toe_Tip
+    100018: L_Upper_Arm
+    100020: L_Upper_Leg
+    100022: Neck
+    100024: R_Hand_L_Finger_Knuckle1
+    100026: R_Hand_Palm
+    100028: R_Hand_R_Finger_Knuckle1
+    100030: R_Hand_Thumb_Knuckle1
+    100032: R_Lower_Arm
+    100034: R_Lower_Leg
+    100036: R_Toe_Base
+    100038: R_Upper_Arm
+    100040: R_Upper_Leg
+    100042: //RootNode
+    400000: Chest
+    400002: Head
+    400004: L_Hand_L_Finger_Base
+    400006: L_Hand_Palm
+    400008: L_Hand_R_Finger_Knuckle1
+    400010: L_Hand_Thumb_Mid
+    400012: L_Knee
+    400014: L_Lower_Arm
+    400016: L_Toe_Tip
+    400018: L_Upper_Arm
+    400020: L_Upper_Leg
+    400022: Neck
+    400024: R_Hand_L_Finger_Knuckle1
+    400026: R_Hand_Palm
+    400028: R_Hand_R_Finger_Knuckle1
+    400030: R_Hand_Thumb_Knuckle1
+    400032: R_Lower_Arm
+    400034: R_Lower_Leg
+    400036: R_Toe_Base
+    400038: R_Upper_Arm
+    400040: R_Upper_Leg
+    400042: //RootNode
+    2100000: None__basecolour_png
+    2100002: None__basecolour1_png
+    2100004: None__basecolour2_png
+    2100006: None__shiro-crayon-shin-chan-1703_jpg
+    2300000: Chest
+    2300002: Head
+    2300004: L_Hand_L_Finger_Base
+    2300006: L_Hand_Palm
+    2300008: L_Hand_R_Finger_Knuckle1
+    2300010: L_Hand_Thumb_Mid
+    2300012: L_Knee
+    2300014: L_Lower_Arm
+    2300016: L_Toe_Tip
+    2300018: L_Upper_Arm
+    2300020: L_Upper_Leg
+    2300022: Neck
+    2300024: R_Hand_L_Finger_Knuckle1
+    2300026: R_Hand_Palm
+    2300028: R_Hand_R_Finger_Knuckle1
+    2300030: R_Hand_Thumb_Knuckle1
+    2300032: R_Lower_Arm
+    2300034: R_Lower_Leg
+    2300036: R_Toe_Base
+    2300038: R_Upper_Arm
+    2300040: R_Upper_Leg
+    3300000: Chest
+    3300002: Head
+    3300004: L_Hand_L_Finger_Base
+    3300006: L_Hand_Palm
+    3300008: L_Hand_R_Finger_Knuckle1
+    3300010: L_Hand_Thumb_Mid
+    3300012: L_Knee
+    3300014: L_Lower_Arm
+    3300016: L_Toe_Tip
+    3300018: L_Upper_Arm
+    3300020: L_Upper_Leg
+    3300022: Neck
+    3300024: R_Hand_L_Finger_Knuckle1
+    3300026: R_Hand_Palm
+    3300028: R_Hand_R_Finger_Knuckle1
+    3300030: R_Hand_Thumb_Knuckle1
+    3300032: R_Lower_Arm
+    3300034: R_Lower_Leg
+    3300036: R_Toe_Base
+    3300038: R_Upper_Arm
+    3300040: R_Upper_Leg
+    4300000: Chest
+    4300002: R_Upper_Leg
+    4300004: R_Lower_Leg
+    4300006: R_Toe_Base
+    4300008: L_Upper_Leg
+    4300010: L_Knee
+    4300012: L_Toe_Tip
+    4300014: L_Upper_Arm
+    4300016: L_Lower_Arm
+    4300018: L_Hand_Palm
+    4300020: L_Hand_Thumb_Mid
+    4300022: L_Hand_L_Finger_Base
+    4300024: L_Hand_R_Finger_Knuckle1
+    4300026: R_Upper_Arm
+    4300028: R_Lower_Arm
+    4300030: R_Hand_Palm
+    4300032: R_Hand_L_Finger_Knuckle1
+    4300034: R_Hand_Thumb_Knuckle1
+    4300036: R_Hand_R_Finger_Knuckle1
+    4300038: Neck
+    4300040: Head
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
